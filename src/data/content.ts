@@ -92,25 +92,25 @@ export const appContent = {
     title: "حمّل النسخة التجريبية الآن",
     subtitle: "متوفر على جميع الأجهزة",
     android: {
-      available: false,
-      link: "#",
-      text: "قريبًا"
+      available: true,
+      link: "assets/app-debug.apk",
+      text: "تحميل لأندرويد"
     },
     ios: {
       available: false,
       link: "#",
-      text: "قريبًا"
+      text: "تحميل لـ iOS (قريبًا)"
     }
   },
 
   contact: {
     title: "تواصل معنا",
-    whatsapp: "+966501234567",
-    email: "info@naqqal.app",
+    whatsapp: "+963988159532",
+    email:  "#" ,
     social: {
-      twitter: "https://twitter.com/naqqal_app",
-      instagram: "https://instagram.com/naqqal_app",
-      facebook: "https://facebook.com/naqqal.app"
+      twitter:  "#" ,
+      instagram: "#" ,
+      facebook: "#" 
     }
   },
 

@@ -31,7 +31,7 @@ export function Download() {
               <div className="text-right">
                 <div className="text-sm text-white/80">متوفر على</div>
                 <div className="text-xl font-bold text-white">
-                  {appContent.download.android.available ? 'Google Play' : appContent.download.android.text}
+                  {appContent.download.android.available ? 'الاندرويد' : appContent.download.android.text}
                 </div>
               </div>
             </a>
