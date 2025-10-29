@@ -10,7 +10,7 @@ RUN npm ci --no-audit --no-fund
 COPY . .
 
 # 🔑 متغيّر لكسر الكاش بكل نشر
-ARG BUILD_REVISION=1.1
+ARG BUILD_REVISION=1.2
 RUN echo "REV=$BUILD_REVISION"
 
 # Vite/CRA: نفس الأمر غالباً build
