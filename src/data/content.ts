@@ -93,7 +93,7 @@ export const appContent = {
     subtitle: "متوفر على جميع الأجهزة",
     android: {
       available: true,
-      link: "/app-debug.apk",
+      link: "/app-release.apk",
       text: "تحميل لأندرويد"
     },
     ios: {
